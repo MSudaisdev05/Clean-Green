@@ -1,4 +1,4 @@
-// ignore_for_file: prefer_const_constructors
+// ignore_for_file: prefer_const_constructors, unused_import, deprecated_member_use
 
 import 'dart:convert';
 import 'package:clean_green_socity/screens/create_post_screen.dart';
